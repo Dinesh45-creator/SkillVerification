@@ -11,3 +11,6 @@ Our vision is to create a trustworthy, transparent, and tamper-resistant platfor
 - **User-Controlled Skill Portfolio:** Users maintain ownership of their skill data and can choose which skills to display.
 - **Verifiable Records:** Each skill entry contains verifier info and timestamp to guarantee authenticity.
 - **Permissioned Skill Removal:** Only the original verifier can remove a skill endorsement, maintaining accountability.
+  CONTRACT :
+  0x3BBC09c04183572d6a87eACE6C7045cA72f392e2
+  ![WhatsApp Image 2025-09-12 at 10 59 49_769292c7](https://github.com/user-attachments/assets/a63fee99-3fed-4ce8-91f8-dce7e609a553)
